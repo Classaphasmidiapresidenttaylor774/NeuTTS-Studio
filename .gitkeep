@@ -1,0 +1,9 @@
+# NeuTTS Studio - Root directory
+# All source code is tracked normally
+# 
+# Directories that need to be preserved:
+# - data/ (with subdirectories: voices/, samples/, models/, outputs/)
+# - core/ (tracked via .py files)
+# - modules/ (tracked via .py files)
+#
+# This file ensures the git repository structure is maintained
